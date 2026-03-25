@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">𝓱𝓲𝓲𝓲 𝓲𝓶 𝓙𝓾𝓷𝓲<br> look at my strawpage :PP (please)<br><br>i love making new friends talk to me!!!! (i'm a little awkward at first but once i get used to u i may yap a lottttt)</p>
+<p align="center">𝓱𝓲𝓲𝓲 𝓲𝓶 𝓙𝓾𝓷𝓲<br> look at my strawpage :PP (please)
 
 ###
 
