@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">𝓱𝓲𝓲𝓲 𝓲𝓶 𝓙𝓾𝓷𝓲<br> look at my strawpage :PP (please) idk what else to put here
+<p align="center">𝓱𝓲𝓲𝓲 𝓲𝓶 𝓙𝓾𝓷𝓲<br>  idk what else to put here
 
 ###
 
