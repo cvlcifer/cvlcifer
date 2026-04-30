@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ 31riap4m4xos2f7nh2v2u5jra72i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031riap4m4xos2f7nh2v2u5jra72i&count=2&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31riap4m4xos2f7nh2v2u5jra72i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31riap4m4xos2f7nh2v2u5jra72i&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
