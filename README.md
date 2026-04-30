@@ -5,8 +5,13 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://64.media.tumblr.com/6b81dcc67c296ce0a51049d3e145d2da/1e7d94793605e8d1-e9/s400x600/9d5e105658b708dbf192feed162cd32192ef9062.pnj"  />
+  <img height="344" src="https://64.media.tumblr.com/2913d4ace83d1acb5a830853d8041629/e69ada103ddfcdc2-bd/s400x600/f09d6e332d444be386e74f9e0567cf2676e6aa89.gifv"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://developer.spotify.com/dashboard/4154ccdacdb44366a040b16c151eab17?theme=dark&spin=true&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
+
+###
