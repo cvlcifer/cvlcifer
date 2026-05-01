@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">hiii</p>
+<p align="center">hiii feel free to talk to me i promise im nice im just very shy</p>
 
 ###
 
