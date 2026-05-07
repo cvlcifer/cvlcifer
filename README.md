@@ -1,12 +1,23 @@
-<br clear="both">
-
-<p align="center">hiii feel free to talk to me i promise im nice im just very shy
- i probably wont talk first tho sorry <3 </p>
+<div align="left">
+  <img height="200" src="https://64.media.tumblr.com/ba262a71cf80d96d2cb8a9c81bb97546/5e0ee0d65d49b4fd-60/s400x600/bb5a03fda630715ce2e6a75ef6760db5d8ee78ff.pnj"  />
+</div>
 
 ###
 
 <div align="center">
-  <img height="344" src="https://64.media.tumblr.com/2913d4ace83d1acb5a830853d8041629/e69ada103ddfcdc2-bd/s400x600/f09d6e332d444be386e74f9e0567cf2676e6aa89.gifv"  />
+  <img height="344" src="https://i.pinimg.com/originals/ff/41/35/ff413511efa2a54794fa09af11e664e6.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p align="center">hiii feel free to talk to me i promise im nice im just very shy<br> i probably wont talk first tho sorry <3<br>                  meowmeowmeow</p>
+
+###
+
+<div align="center">
+  <img height="30" src="https://64.media.tumblr.com/3e3dfa9b95782ea39fc408daababc6fc/94de515ad135a9de-ea/s250x400/37c832830a76891348c03668c236f86c866079e6.gifv"  />
 </div>
 
 ###
@@ -15,6 +26,18 @@
   <a href="https://open.spotify.com/user/31riap4m4xos2f7nh2v2u5jra72i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31riap4m4xos2f7nh2v2u5jra72i&count=2&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="354" src="https://i.pinimg.com/originals/72/46/39/724639232fb3a23749d6fca51dd2823f.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://64.media.tumblr.com/ba262a71cf80d96d2cb8a9c81bb97546/5e0ee0d65d49b4fd-60/s400x600/bb5a03fda630715ce2e6a75ef6760db5d8ee78ff.pnj"  />
 </div>
 
 ###
