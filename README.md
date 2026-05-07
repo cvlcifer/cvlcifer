@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">hiii feel free to talk to me i promise im nice im just very shy<br> i probably wont talk first tho sorry <3<br>                  meowmeowmeow</p>
+<p align="center">hiii feel free to talk to me even if im sitting with someone (aka @nvrlndray) i promise im nice im just very shy<br> i probably wont talk first tho sorry <3<br>                  meowmeowmeow</p>
 
 ###
 
