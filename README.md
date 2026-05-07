@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="left">
-  <img height="200" src="https://64.media.tumblr.com/ba262a71cf80d96d2cb8a9c81bb97546/5e0ee0d65d49b4fd-60/s400x600/bb5a03fda630715ce2e6a75ef6760db5d8ee78ff.pnj"  />
+  <img height="424" src="https://64.media.tumblr.com/977465f986c40b4c9e57a94cc47ac62c/ac5ea246951aba02-ca/s400x600/98c26b6d3bff619a2d25fe01f685ab76caebb245.pnj"  />
 </div>
 
 ###
@@ -31,13 +33,19 @@
 ###
 
 <div align="center">
-  <img height="354" src="https://i.pinimg.com/originals/72/46/39/724639232fb3a23749d6fca51dd2823f.gif"  />
+  <img height="192" src="https://64.media.tumblr.com/0b686351ef36362deb0274e125c8e686/4a66afea1c89ab32-ab/s250x400/e984ee9e4f37dcafe87e34e8b937a3cf37b795f4.pnj"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="354" src="https://i.pinimg.com/736x/a1/4b/79/a14b79fd00edf65712d4db4ec266f81a.jpg"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://64.media.tumblr.com/ba262a71cf80d96d2cb8a9c81bb97546/5e0ee0d65d49b4fd-60/s400x600/bb5a03fda630715ce2e6a75ef6760db5d8ee78ff.pnj"  />
+  <img height="200" src="https://64.media.tumblr.com/a36ff705139b78663cb46ab1f63606cc/ac5ea246951aba02-bd/s400x600/3c76e569537d2a2d4e90d8661f58e6ea799a4553.pnj"  />
 </div>
 
 ###
