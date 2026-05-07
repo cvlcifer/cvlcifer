@@ -1,7 +1,5 @@
-<br clear="both">
-
 <div align="left">
-  <img height="424" src="https://64.media.tumblr.com/977465f986c40b4c9e57a94cc47ac62c/ac5ea246951aba02-ca/s400x600/98c26b6d3bff619a2d25fe01f685ab76caebb245.pnj"  />
+  <img height="200" src="https://64.media.tumblr.com/956ef81f020ca72c81c062d9e85e7702/1e3f52aa3fa01c75-14/s400x600/7118bd4f3a86904af475229b758ef46ba5694f78.pnj"  />
 </div>
 
 ###
@@ -28,12 +26,6 @@
   <a href="https://open.spotify.com/user/31riap4m4xos2f7nh2v2u5jra72i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31riap4m4xos2f7nh2v2u5jra72i&count=2&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="192" src="https://64.media.tumblr.com/0b686351ef36362deb0274e125c8e686/4a66afea1c89ab32-ab/s250x400/e984ee9e4f37dcafe87e34e8b937a3cf37b795f4.pnj"  />
 </div>
 
 ###
