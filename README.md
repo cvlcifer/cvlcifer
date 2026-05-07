@@ -1,9 +1,3 @@
-<div align="left">
-  <img height="200" src="https://64.media.tumblr.com/956ef81f020ca72c81c062d9e85e7702/1e3f52aa3fa01c75-14/s400x600/7118bd4f3a86904af475229b758ef46ba5694f78.pnj"  />
-</div>
-
-###
-
 <div align="center">
   <img height="344" src="https://i.pinimg.com/originals/ff/41/35/ff413511efa2a54794fa09af11e664e6.gif"  />
 </div>
@@ -32,12 +26,6 @@
 
 <div align="center">
   <img height="354" src="https://i.pinimg.com/736x/a1/4b/79/a14b79fd00edf65712d4db4ec266f81a.jpg"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="200" src="https://64.media.tumblr.com/a36ff705139b78663cb46ab1f63606cc/ac5ea246951aba02-bd/s400x600/3c76e569537d2a2d4e90d8661f58e6ea799a4553.pnj"  />
 </div>
 
 ###
