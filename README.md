@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cvlcifer.cvlcifer&left_color=maroon&right_color=maroon&left_text=i%20see%20u%20%F0%9F%9A%AC"  />
+</div>
+
+###
+
+<div align="center">
   <img height="344" src="https://i.pinimg.com/originals/ff/41/35/ff413511efa2a54794fa09af11e664e6.gif"  />
 </div>
 
@@ -12,7 +18,7 @@
 
 <br clear="both">
 
-<p align="center">hiii feel free to talk to me even if im sitting with someone (aka @nvrlndray) i promise im nice im just very shy<br> i probably wont talk first tho sorry <3<br>                  meowmeowmeow</p>
+<p align="center">hiii feel free to talk to me i promise im nice im just very shy<br> i probably wont talk first tho sorry <3<br>                  meowmeowmeow</p>
 
 ###
 
