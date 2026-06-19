@@ -1,38 +1,37 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cvlcifer.cvlcifer&left_color=darkolivegreen&right_color=pink&left_text=braaainnnnzzzz%20"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cvlcifer.cvlcifer&left_color=mediumpurple&right_color=black&left_text=%22Ragnarok,%20Screaming%20Resonance.%22"  />
 </div>
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/31riap4m4xos2f7nh2v2u5jra72i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31riap4m4xos2f7nh2v2u5jra72i&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img height="200" src="https://64.media.tumblr.com/6c9dd61ae97d487cf7173b69c6c7a767/3d5e9ba403fe6f00-15/s400x600/9ba92b56f14736e69e37f12fccd3be2f56d8fee7.pnj"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="303" src="https://i.pinimg.com/originals/b9/53/d1/b953d181d9de1d06669ce69c2a06dcc8.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/20a41b8744b81ada1a57c273ccc0cfc2/4ff098bbd02db0c7-6a/s75x75_c1/6905933d1e4ec92678081e44722019699b26dff2.gifv"  />
-</div>
+<h6 align="center">─── ⋆⋅☆⋅⋆ ──<br>hiii i'm Juni<br>feel free to talk to meee</h6>
 
 ###
 
-<p align="center">hiii feel free to talk to me i promise           <br>im nice im just very shy<br> i probably wont talk first tho sorry <3<br>                  meowmeowmeow</p>
+<p align="right">myyy baaabbbyyy my baaabbbyyyy :((</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/b173c544c146cf948ddf930fb3c8e67d/5860553f32fcff86-8c/s250x400/1c8030438e257ab6d92d1989c022f0775afffcb0.webp"  />
-</div>
+<img align="right" height="200" src="https://i.pinimg.com/1200x/0f/0f/b4/0f0fb4783084d7916236cb8bf652a00f.jpg"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/fd/c3/2d/fdc32d0d6f8811e5f3f1c72569c7101c.jpg"  />
+  <a href="https://open.spotify.com/user/31riap4m4xos2f7nh2v2u5jra72i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31riap4m4xos2f7nh2v2u5jra72i&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
-
-###
-
-<p align="center">this is a wip!!</p>
-
-###
